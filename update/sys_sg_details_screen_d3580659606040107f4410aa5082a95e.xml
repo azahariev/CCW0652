@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>true</available_offline>
+        <data_item display_value="My Open Todos">57870219606040107f4410aa5082a993</data_item>
+        <description>A list of all open todos assigned to me</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="list-alt">cf580659606040107f4410aa5082a956</icon>
+        <item_view display_value="My Open Todos detail item view">1358c259606040107f4410aa5082a957</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>d7584259606040107f4410aa5082a906</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-16 14:38:02</sys_created_on>
+        <sys_id>d3580659606040107f4410aa5082a95e</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="K19 Todo Management" source="x_snc_k19tdm">0521aff113e4330026093d62f244b07b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K19 Todo Management">0521aff113e4330026093d62f244b07b</sys_scope>
+        <sys_update_name>sys_sg_details_screen_d3580659606040107f4410aa5082a95e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-16 15:33:47</sys_updated_on>
+    </sys_sg_details_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=d3580659606040107f4410aa5082a95e"/>
+</record_update>

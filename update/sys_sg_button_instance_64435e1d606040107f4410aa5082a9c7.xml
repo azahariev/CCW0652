@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Hours">03321a1d606040107f4410aa5082a970</button>
+        <description/>
+        <field_name/>
+        <label>Snooze</label>
+        <location>leading_swipe</location>
+        <name>Snooze</name>
+        <order>2</order>
+        <parent>d7584259606040107f4410aa5082a906</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-16 15:25:38</sys_created_on>
+        <sys_id>64435e1d606040107f4410aa5082a9c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Snooze</sys_name>
+        <sys_package display_value="K19 Todo Management" source="x_snc_k19tdm">0521aff113e4330026093d62f244b07b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K19 Todo Management">0521aff113e4330026093d62f244b07b</sys_scope>
+        <sys_update_name>sys_sg_button_instance_64435e1d606040107f4410aa5082a9c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-16 15:25:38</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=64435e1d606040107f4410aa5082a9c7"/>
+</record_update>
